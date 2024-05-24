@@ -6,8 +6,13 @@ I'm thrilled to announce the launch of my latest project, E Commerce Sales Analy
 🔍 Key Features:
 
 Sales and Profit Analysis 🌐
+
 Category wise Profit 📉
+
 Category wise Sales Share%😃
+
 Sales by State 🚻
+
 Top 10 Sub Category 🎓
+
 💡 Insights: Uncover vital data on Sales of E- Commerce Site where we insight of Sales and Profit Analysis ,Category wise Profit ,Category wise Sales Share% ,Sales by State ,Top 10 Sub Category !
